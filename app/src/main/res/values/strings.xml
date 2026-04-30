@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">IPay</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_account">Don\'t have an account? Sign Up</string>
+    <string name="create_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="the_next_level_mobile_bank_system">The next\nlevel mobile\nbank system</string>
+    <string name="splash_description">Start managing your finances from now on\nfor the future you will face</string>
+    <string name="get_started">Get Started</string>
+    <string name="order">Order</string>
+    <string name="see_more">See More</string>
+    <string name="quick_money_transfer">Quick Money Transfer</string>
+    <string name="convert">Convert</string>
+    <string name="receive">Receive</string>
+    <string name="send">Send</string>
+    <string name="_000_000">$000.000</string>
+    <string name="outcome">Outcome</string>
+    <string name="_000_0">$000.0</string>
+    <string name="income">Income</string>
+    <string name="_000_000_00">$000,000.00</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="item_0_nitem_1_nitem_2_nitem_3_nitem_4_nitem_5_nitem_6_nitem_7_nitem_8_nitem_9">Item 0\nItem 1\nItem 2\nItem 3\nItem 4\nItem 5\nItem 6\nItem 7\nItem 8\nItem 9</string>
+    <string name="home">Home</string>
+    <string name="market">Market</string>
+    <string name="trade">Trade</string>
+    <string name="chart">Chart</string>
+    <string name="profile">Profile</string>
+    <string name="monthly_budget_status">Monthly Budget Status</string>
+    <string name="_75">75%</string>
+    <string name="budget_spend_message">You have spent $1,200 of $1,600</string>
+</resources>

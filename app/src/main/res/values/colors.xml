@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#4be79d</color>
+    <color name="darkBlue">#1e273d</color>
+    <color name="blue">#4068ca</color>
+    <color name="purple">#875cfb</color>
+    <color name="pink">#d34d8f</color>
+    <color name="lightPink">#dcd9f7</color>
+    <color name="semiPink">#f4f7ff</color>
+    <color name="semiPurple">#f1f4fc</color>
+    <color name="chartOrange">#ffb55a</color>
+    <color name="chartPink">#ff8895</color>
+    <color name="chartCyan">#26d4bd</color>
+    <color name="grey">#808080</color>
+</resources>
